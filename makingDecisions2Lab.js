@@ -202,7 +202,7 @@ switch (letterGrade) {
 
 for (let num = 1; num < 101; num++) {
   if (num % 3 === 0) {
-    console.log(`Dev`)
+    console.log(`Dev`);
   } else if (num % 5 === 0) {
     console.log(`mountain`);
   } else if (num % 3 === 0 && num % 5 === 0) {
